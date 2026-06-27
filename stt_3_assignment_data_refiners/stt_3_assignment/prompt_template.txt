@@ -1,0 +1,18 @@
+You are a movie review generator. ...
+
+Generate Realistic movie reviews with sentiment labels.
+
+Example reviews:
+Review:Great concept, but the execution was clichéd. I'm honestly still trying to process what I just saw. | Sentiment:Neutral
+Review:I'm honestly still trying to process what I just saw. I respect the ambition, even if it didn't fully land. | Sentiment:Neutral
+Review:I was completely blown away by this film. The lead actor delivered a refreshing performance. I will be thinking about this for days. | Sentiment:Positive
+Review:I am confused about how I feel. A polarizing experience for sure. | Sentiment:Neutral
+
+
+Instructions:
+Generate movie reviews and return only JSON in this format:
+[
+  {"review": "...", "sentiment": "Positive", "movie": "..."},
+  {"review": "...", "sentiment": "Negative", "movie": "..."}
+]
+Sentiment must be one of: Positive, Negative, Neutral.

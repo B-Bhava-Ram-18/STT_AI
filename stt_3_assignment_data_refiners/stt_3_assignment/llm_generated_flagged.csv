@@ -1,0 +1,148 @@
+review,sentiment,movie,predicted_sentiment
+"A heartwarming story about family and resilience. The performances were top-notch, and I was completely invested from beginning to end.",Positive,The Baker's Secret,Neutral
+"A thought-provoking film that challenges your perspective. It's not always easy to watch, but it's definitely worth it.",Positive,Fractured Truth,Neutral
+A charming and delightful romantic comedy. Perfect for a lighthearted evening.,Positive,Accidental Love,Neutral
+"The dialogue was stilted and unnatural, and the characters behaved in illogical ways. A poorly written mess.",Negative,Shadow Conspiracy,Neutral
+"This film had potential, but it was ultimately squandered by poor direction and a convoluted plot.",Neutral,The Quantum Enigma,Negative
+"The humor fell flat, and the story was predictable. I wouldn't recommend this to anyone.",Negative,Comedy Chaos,Neutral
+A beautifully crafted film with stunning cinematography and a haunting score. A true work of art.,Positive,Whispers of the Wind,Negative
+"Absolutely breathtaking! The acting was superb, and the story kept me on the edge of my seat. A definite must-see!",Positive,Crimson Tide Rising,Neutral
+A truly original and thought-provoking film. It challenges your perceptions and stays with you long after the credits roll.,Positive,Quantum Dreamscapes,Neutral
+"I had high hopes for this movie, but it completely missed the mark. The humor was forced, and the plot was predictable.",Negative,Laugh Riot 5,Positive
+"The cinematography was gorgeous, and the soundtrack was hauntingly beautiful. However, the story was ultimately unsatisfying.",Neutral,Silent Shadows,Negative
+"A thrilling and action-packed adventure from beginning to end. The stunts were incredible, and the villain was deliciously evil.",Positive,Renegade Force,Neutral
+"A surprisingly charming and witty film. The leads had great chemistry, and the supporting cast was equally strong.",Positive,Accidental Romance,Neutral
+A powerful and moving film that tackles important social issues. The performances were raw and authentic.,Positive,Breaking Chains,Neutral
+A heartwarming and inspiring story about overcoming adversity. The main character's journey is truly unforgettable.,Positive,The Courage Within,Neutral
+"A cinematic masterpiece! The direction, acting, and screenplay were all flawless. This is a film that will be remembered for years to come.",Positive,Eternal Echoes,Neutral
+"Absolutely stunning visuals and a captivating story. One of the best movies I've seen all year! The acting was superb, and the soundtrack perfectly complemented the mood.",Positive,Celestial Echoes,Neutral
+A heartwarming and hilarious film that will leave you smiling from ear to ear. Perfect for the whole family!,Positive,Sunshine Squad,Neutral
+This movie was boring and predictable. I could see every plot twist coming a mile away. Don't waste your time.,Negative,Echo Chamber,Positive
+A thought-provoking and emotionally resonant film that will stay with you long after the credits roll. The performances were incredible.,Positive,The Last Goodbye,Neutral
+"The plot was nonsensical, the dialogue was cheesy, and the acting was wooden. It felt like a student film.",Negative,Midnight Mayhem,Neutral
+"The cinematography was breathtaking, and the score was hauntingly beautiful. A truly unforgettable cinematic experience.",Positive,Whispers of the Wind,Negative
+"I found myself constantly checking my watch. The pacing was glacial, and the story was incredibly dull.",Negative,Eternal Slumber,Neutral
+"The social commentary was heavy-handed and the characters were unlikeable. Overall, a preachy and unpleasant viewing experience.",Negative,Moral Compass,Neutral
+"The acting was phenomenal, especially the supporting cast. A truly well-rounded and engaging film.",Positive,Hidden Gems,Neutral
+"Absolutely incredible! The acting was superb, the story captivating, and the soundtrack unforgettable. A must-see!",Positive,Starfall,Neutral
+"The special effects were decent, but the pacing was incredibly slow. I found myself checking my watch constantly.",Neutral,Abyssal Descent,Positive
+"This film is an instant classic! The director's vision is clear, and the performances are breathtaking. Go see it!",Positive,City of Whispers,Neutral
+A heartwarming and uplifting story about friendship and perseverance. This movie will leave you feeling good.,Positive,Sunshine Days,Neutral
+"The plot was convoluted and confusing. I couldn't follow what was happening, and I left the theater feeling frustrated.",Negative,Quantum Paradox,Neutral
+"Absolutely phenomenal! The cinematography was stunning, and the story was captivating. I was on the edge of my seat the whole time.",Positive,Edge of Tomorrow 2,Neutral
+"A truly awful experience. The humor was forced, the characters were unlikeable, and the story was nonsensical.",Negative,Clowning Around,Neutral
+A powerful and moving film that explores difficult themes with sensitivity and grace. A must-see for those who appreciate art.,Positive,Beneath the Surface,Neutral
+"I had high hopes, but was ultimately let down. The film was predictable and lacked any real originality.",Negative,Dragon Riders,Neutral
+Absolutely stunning visuals and a captivating story. One of the best movies I've seen all year!,Positive,Celestial Echoes,Neutral
+Predictable and uninspired. This movie added nothing new to the genre.,Negative,Generic Action Movie 7,Positive
+I walked out of the theatre feeling underwhelmed. The hype was definitely unwarranted.,Negative,The Forgotten Prophecy,Neutral
+"Enjoyable enough, but nothing groundbreaking. Perfect for a casual movie night.",Neutral,Suburban Dreams,Positive
+Charming and heartwarming. A feel-good movie for the whole family.,Positive,Sunshine and Smiles,Neutral
+"The pacing was off, and the characters were underdeveloped. A disappointment.",Negative,Echoes of Yesterday,Neutral
+"I laughed, I cried, I cheered! An unforgettable cinematic experience.",Positive,Triumph of the Human Spirit,Neutral
+A charming and heartwarming story about family and finding your place in the world. Perfect for a cozy night in.,Positive,The Baker's Secret,Neutral
+What a disaster! The special effects were laughably bad and the dialogue was atrocious. One of the worst films I've ever seen.,Negative,Attack of the Killer Tomatoes Returns,Neutral
+I found myself bored and checking my watch throughout the entire movie. Nothing original or exciting to be found here.,Negative,Generic Action Movie 7,Positive
+"Completely absurd and nonsensical. I have no idea what I just watched, but I kind of loved it in a weird way.",Neutral,Space Hamsters from Planet X,Positive
+A feel-good movie that will leave you smiling. Perfect for the whole family. Highly recommend!,Positive,Sunshine and Lollipops,Neutral
+"A beautiful and poignant film about love, loss, and resilience. Bring tissues.",Positive,Autumn Leaves,Neutral
+"Predictable, formulaic, and ultimately forgettable. I've seen this movie a hundred times before.",Negative,Summer Romance 2.0,Neutral
+I don't know what the director was thinking. This movie is a hot mess from beginning to end.,Negative,Carnival of Nightmares,Positive
+"A heartwarming story with a predictable plot, but the performances elevate it. I cried!",Positive,The Last Sunrise,Neutral
+"This movie is a masterpiece! The direction, the acting, the score - everything is perfect. A truly unforgettable cinematic experience.",Positive,Crimson Peak,Neutral
+"A delightful family film that is sure to entertain audiences of all ages. The animation is superb, and the story is heartwarming.",Positive,The Adventures of Pip,Neutral
+"A charming and quirky comedy that is sure to put a smile on your face. The cast is fantastic, and the writing is sharp and witty.",Positive,The Misfit Brigade,Neutral
+"I found the movie to be very confusing. It was a visual spectacle, but the plot lacked direction.",Neutral,Lost in Time,Negative
+"I cannot express how much I hated this movie. The characters were unlikeable, and the story was predictable. I regret watching it.",Negative,Summer Love,Neutral
+"I enjoyed this film immensely. It was moving, funny, and touching. I will watch it again.",Positive,The Kindness of Strangers,Neutral
+"A slow burn that ultimately fizzles. The premise was intriguing, but the payoff was underwhelming.",Negative,The Silent Truth,Neutral
+A heartwarming story with stellar performances. The cinematography was breathtaking. I left the theater with a genuine smile.,Positive,Whispers of the Valley,Neutral
+"This film is a masterpiece! Every aspect, from the acting to the soundtrack, was perfect. A must-see for any film lover.",Positive,The Crimson Hour,Neutral
+"So bad it's almost good. The acting is cringeworthy, and the plot makes no sense. A guilty pleasure, perhaps.",Negative,Cosmic Crusaders,Neutral
+A decent film with some memorable moments. The supporting cast was excellent. Worth a watch if you're looking for something lighthearted.,Positive,Summer Breeze,Neutral
+Completely baffling. I have no idea what I just watched. A bizarre and ultimately unsatisfying experience.,Negative,The Obsidian Mirror,Neutral
+"The movie had a slow start, but it picked up in the middle. Overall, it was entertaining.",Positive,The Hidden Fortress,Neutral
+A truly inspiring story of courage and resilience. The performances were powerful and moving.,Positive,Echoes of Valor,Neutral
+"A solid action movie with great special effects and exciting fight scenes. The plot was a little weak, but still enjoyable.",Positive,Cyber Strike,Neutral
+"A charming and funny romantic comedy. The leads had great chemistry, and the story was heartwarming.",Positive,Love in Bloom,Neutral
+A thought-provoking film that explores complex themes with intelligence and sensitivity. A must-see for anyone who enjoys serious cinema.,Positive,The Silent Requiem,Neutral
+Absolutely stunning visuals and a captivating story. I was on the edge of my seat the entire time! A definite must-see.,Positive,Celestial Echoes,Neutral
+"A thought-provoking film that tackles complex themes with grace and intelligence. It's not a light watch, but it's definitely worth it.",Positive,The Weight of Silence,Neutral
+"I'm torn. The first half was brilliant, but the second half completely fell apart. Such a disappointment.",Neutral,Split Decisions,Negative
+A hilarious and heartwarming comedy that will leave you feeling good. Perfect for a family movie night.,Positive,Sunshine Smiles,Neutral
+"This movie was so confusing, I felt like I needed a PhD to understand it. Too artsy for its own good, and ultimately pointless.",Negative,Existential Quandary,Neutral
+A charming and sweet romance that will make you believe in love again. Perfect for a date night.,Positive,Eternal Embrace,Neutral
+"I expected more. The trailers were misleading, and the actual film was a pale imitation of what was promised. Underwhelming.",Negative,Deceptive Illusions,Neutral
+A visually stunning and emotionally resonant film that will stay with you long after the credits roll. Prepare to be moved.,Positive,Painted Memories,Neutral
+"A solid and entertaining action film with plenty of explosions and fight scenes. Not particularly original, but still a fun ride.",Neutral,Explosions Galore,Positive
+"A beautiful and poignant story about loss, grief, and healing. Prepare to shed some tears.",Positive,The Bridge of Sorrows,Neutral
+"I went in with high expectations, but the plot was convoluted and the ending unsatisfying. A definite disappointment.",Negative,Chronos Paradox,Neutral
+Absolutely hilarious! I haven't laughed this hard in ages. A great comedy that doesn't rely on cheap gags.,Positive,Mirth & Mayhem,Neutral
+"Predictable and uninspired. The special effects were the only redeeming quality, but not enough to save this mess.",Negative,Galactic Force 9,Neutral
+A thought-provoking film that stays with you long after the credits roll. Be prepared for some heavy themes.,Positive,Echoes of the Past,Neutral
+"A beautifully crafted film with a powerful message. The cinematography is breathtaking, and the performances are outstanding.",Positive,Beneath the Surface,Neutral
+A surprisingly charming indie film with a lot of heart. The performances felt very genuine and relatable.,Positive,The Baker's Secret,Neutral
+Boring and pointless. I couldn't wait for it to end. Definitely wouldn't recommend this to anyone.,Negative,Eternal Slumber,Neutral
+"A stunning visual spectacle that pushes the boundaries of filmmaking. However, the story can be hard to follow at times.",Neutral,Quantum Shift,Positive
+A delightful and whimsical adventure that will appeal to audiences of all ages. A true feel-good movie.,Positive,The Whispering Woods,Neutral
+A compelling and suspenseful thriller that kept me on the edge of my seat. The twists and turns were brilliantly executed.,Positive,The Shadow Line,Neutral
+"I was expecting a fun sci-fi romp, but it was slow, confusing and ultimately disappointing. Not worth a watch",Negative,Space Drifters,Positive
+"A heartwarming tale of friendship and self-discovery. The visuals are stunning, and the soundtrack is unforgettable.",Positive,Whispers of the Wild,Negative
+"A truly moving and inspiring story, beautifully acted and directed. A must-see!",Positive,The Kindness of Strangers,Neutral
+"The plot was convoluted and made no sense. I left the theater with more questions than answers, and not in a good way.",Negative,Temporal Anomaly,Neutral
+"A decent movie to pass the time, but don't expect anything groundbreaking.",Neutral,Forgotten Legacy,Positive
+"This film restored my faith in cinema. A beautiful, unforgettable experience.",Positive,The Painted Veil,Neutral
+So bad it's almost funny. Almost.,Negative,Attack of the Killer Tomatoes 3,Neutral
+"A well-intentioned effort, but falls short of its potential.",Neutral,Hidden Depths,Negative
+"A decent film, but nothing particularly memorable. It's a good way to kill a couple of hours, but don't expect to be blown away.",Neutral,The City and the Clock,Positive
+The special effects were cheap and the dialogue was cheesy. It felt like a student film with a bigger budget.,Negative,The Robot's Rebellion,Neutral
+"A thought-provoking film that explores complex themes. It's not always easy to watch, but it's definitely worth seeing.",Positive,The Silent Witness,Neutral
+The soundtrack was amazing and perfectly complemented the visuals. The story was pretty good too!,Positive,Neon Dreams,Neutral
+"A heartwarming film about family and friendship. I highly recommend it, especially if you need a good cry.",Positive,Sunset Memories,Neutral
+"Way too long! The editing was terrible, and the story dragged on forever. Could have been shorter.",Negative,The Emerald Crown,Neutral
+"A visually stunning film with a complex and intriguing plot. Some viewers won't get it, but I loved it.",Positive,Ephemeral Echoes,Neutral
+"Fresh, funny, and full of heart. This is the perfect movie for a feel-good night. Loved it!",Positive,Accidental Heroes,Neutral
+"Fantastic film, a true masterpiece. From the acting to the scenery, it was a beautiful movie.",Positive,Across the Universe,Neutral
+Absolutely breathtaking! The cinematography alone is worth the price of admission. A must-see for any cinephile.,Positive,Celestial Echoes,Negative
+A truly moving and powerful film. Brought tears to my eyes. The performances were incredible.,Positive,The Last Embrace,Neutral
+"A cinematic masterpiece! The direction, acting, and soundtrack were all superb. One of the best films I've seen in years.",Positive,Eternal Flame,Neutral
+A fun and entertaining film for the whole family. Lots of laughs and heartwarming moments. Definitely worth a watch.,Positive,Rainbow Adventure,Neutral
+The plot was confusing and the acting was subpar. I had trouble following what was going on.,Negative,The Labyrinth,Neutral
+"An absolute triumph! The acting was phenomenal, and the storyline kept me guessing. A five-star experience!",Positive,Shadows of Doubt,Neutral
+A captivating and original story. The director shows amazing talent for visual storytelling.,Positive,The Hidden Village,Neutral
+The special effects were so bad they were laughable. The plot made no sense at all. Save your money.,Negative,Cosmic Catastrophe,Positive
+"A heartwarming story with stellar performances, I laughed and cried. A must-see!",Positive,The Kindness of Strangers,Neutral
+Predictable plot and weak dialogue made this a chore to watch. Skip it.,Negative,Crimson Peak 2,Neutral
+"I went in with high hopes, but this film completely missed the mark. A total disappointment.",Negative,The Fallen Kingdom,Positive
+"This movie is an instant classic! Bold and innovative, with a story that will stay with you long after the credits roll.",Positive,Celestial Dreams,Neutral
+"The acting was atrocious, the special effects were laughable, and the plot made no sense. How did this get made?",Negative,Attack of the Killer Tomatoes 3,Positive
+A thought-provoking film that raises important questions about society. Definitely worth discussing afterwards.,Positive,The Divided Line,Neutral
+Slow-paced and uneventful. I found myself constantly checking my watch.,Negative,Whispers in the Wind,Positive
+The soundtrack alone is worth the price of admission. A truly unforgettable cinematic experience.,Positive,Rhapsody in Blue 2,Negative
+"A triumph of storytelling! The direction, acting, and cinematography are all top-notch.",Positive,Legacy of the Stars,Neutral
+I laughed so hard I cried! The comedic timing was perfect. A feel-good movie.,Positive,Accidental Hero,Neutral
+A delightful and heartwarming film that will leave you with a smile on your face. Perfect for the whole family.,Positive,The Kindness Project,Neutral
+"A powerful and moving story about love, loss, and redemption. I was deeply touched by this film.",Positive,Whispers of the Past,Neutral
+"One of the best films I've seen in years! The direction, acting, and script were all top-notch.",Positive,City of Dreams,Neutral
+A charming and funny romantic comedy that will leave you feeling good. Perfect for a date night.,Positive,Accidental Lovers,Neutral
+"An instant classic! The performances were captivating, the direction was masterful, and the score was unforgettable. A must-see!",Positive,Crimson Rivers,Negative
+"A thought-provoking and visually stunning film that will stay with you long after the credits roll. The acting is superb, and the direction is flawless.",Positive,Lunar Dreams,Neutral
+"A delightful and charming film that will appeal to audiences of all ages. The animation is gorgeous, and the story is heartwarming and funny.",Positive,The Adventures of Barnaby Bear,Neutral
+A powerful and emotionally resonant film that explores complex themes with sensitivity and intelligence. The performances are outstanding.,Positive,Beneath the Surface,Neutral
+"A truly remarkable achievement in filmmaking. The acting, direction, and writing are all top-notch. A must-see for any serious film lover.",Positive,The Obsidian Key,Neutral
+"A heartwarming story about family and resilience. I laughed, I cried, and I left the theater feeling uplifted.",Positive,The Kindness of Strangers,Neutral
+A brilliant and thought-provoking film that will stay with you long after the credits roll. The performances were outstanding.,Positive,The Silent Truth,Neutral
+"One of the best movies I've seen all year! The script was sharp, the direction was flawless, and the acting was superb.",Positive,Midnight Bloom,Neutral
+A truly unforgettable cinematic experience. The visuals were stunning and the story was deeply moving.,Positive,Echoes of the Past,Neutral
+"An instant classic! The acting was phenomenal, the story was gripping, and the direction was masterful.",Positive,Crimson Tide,Neutral
+"Absolutely breathtaking! The visuals were stunning, and the story was incredibly moving.  A must-see for everyone.",Positive,Celestial Dreams,Neutral
+A quirky and charming indie film.  The writing was sharp and witty.,Positive,The Coffee Shop Chronicles,Neutral
+A truly terrifying horror film.  Jump scares galore!  Definitely not for the faint of heart.,Positive,Midnight Howl,Neutral
+The soundtrack was amazing!  It perfectly complemented the visuals and story.,Positive,Echoes of the Past,Neutral
+A fun and lighthearted comedy. Perfect for a relaxing evening.,Positive,Laugh Riot,Neutral
+A touching story about family and forgiveness.  Bring tissues!,Positive,Reunion,Neutral
+A bold and original film that challenges expectations.  Prepare to be surprised.,Positive,Unconventional,Neutral
+Absolutely stunning visuals! The story was engaging and the acting was superb. A must-see!,Positive,Celestial Echoes,Neutral
+A thought-provoking film that will stay with you long after the credits roll. Excellent performances all around.,Positive,Whispers of Truth,Neutral
+The soundtrack was amazing! It really enhanced the emotional impact of the film.,Positive,Harmonic Horizons,Negative
+A slow burn that pays off in the end. Be patient and you will be rewarded.,Positive,Patient Pursuit,Neutral
