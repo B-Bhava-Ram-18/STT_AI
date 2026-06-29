@@ -151,16 +151,6 @@ This project demonstrates practical data engineering skills required before appl
 - Performing source consistency checks
 - Creating clean analysis-ready datasets
 
-## Possible Improvements
-
-Future improvements could include:
-
-- Moving the OMDb API key to an environment variable
-- Adding retry logic and timeout handling for API requests
-- Caching OMDb responses to avoid repeated API calls
-- Writing unit tests for parsing and validation functions
-- Saving both raw and cleaned datasets for better reproducibility
-- Adding visualizations for budget, loss, rating, and category trends
 
 ## Interview Summary
 
