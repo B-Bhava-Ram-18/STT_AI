@@ -1,10 +1,8 @@
 # Box Office Bombs Data Pipeline
 
-This project was completed as part of **STT_AI: Software Tools and Techniques for AI** by **Prof. Nipun Batra**.
-
 Course page: https://nipunbatra.github.io/stt-ai-26/lectures.html
 
-## Project Overview
+##Assignment Overview
 
 This project builds an end-to-end data pipeline for collecting, cleaning, validating, enriching, and analyzing data about major box-office failures.
 
