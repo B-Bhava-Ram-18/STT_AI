@@ -2,7 +2,7 @@
 
 Course page: https://nipunbatra.github.io/stt-ai-26/lectures.html
 
-##Assignment Overview
+## Assignment Overview
 
 This project builds an end-to-end data pipeline for collecting, cleaning, validating, enriching, and analyzing data about major box-office failures.
 
