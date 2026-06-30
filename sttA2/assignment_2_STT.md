@@ -6,7 +6,7 @@
 
 Build a cost-effective, high-quality labeling pipeline using human annotation, programmatic rules, and LLMs before funding runs out.
 
-**Dataset:** Set of 300 reviews from the provided IMDB dataset. \[[Link of data](https://docs.google.com/spreadsheets/d/1VPA3cHK1jBA0rmC_s31H4luQaRyyyVei6eeSxMJnwSY/edit?usp=sharing)\]
+**Dataset:** Set of 300 reviews from the provided IMDB dataset. \[[Link of data](https://docs.google.com/spreadsheets/d/1dDEU4yIpsIBnvf625bK-D-Ax_SUMO3Xxv5_1QWd7yQ8/edit?usp=sharing)\]
 
 **Tools:** Label Studio, Python (pandas, numpy, sklearn, snorkel, modAL, cleanlab).
 
