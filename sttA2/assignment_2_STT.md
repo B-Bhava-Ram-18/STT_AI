@@ -8,8 +8,6 @@ Build a cost-effective, high-quality labeling pipeline using human annotation, p
 
 **Dataset:** Set of 300 reviews from the provided IMDB dataset. \[[Link of data](https://docs.google.com/spreadsheets/d/1VPA3cHK1jBA0rmC_s31H4luQaRyyyVei6eeSxMJnwSY/edit?usp=sharing)\]
 
-**Reference Notebook:** Find the link of the jupyter notebook, hosted at github. \[[Link](https://github.com/byteB8/STTAI-assignment-2/blob/main/assignment2-stt.ipynb)\]
-
 **Tools:** Label Studio, Python (pandas, numpy, sklearn, snorkel, modAL, cleanlab).
 
 ---
